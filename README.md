@@ -29,7 +29,7 @@ A step by step examples on how to get a development env running
 
 ```bash
 # Go into the directory
-$ cd Stoplight
+$ cd stoplight-fun
 
 # Install dependencies
 $ yarn install
